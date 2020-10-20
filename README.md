@@ -7,7 +7,7 @@
 
 After containing the first wave of COVID-19, making projections will become increasingly difficult, as we will have frequent regime changes (we will enter the "dance" phase of the [The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)). Thus, we must move on to a monitoring and control strategy, and for that, we need a good metric.
 
-We believe that the effective breeding number Rt is the answer. Inspired by the [Kevin Systrom](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/) article, we reproduce the model of the article on the notebook present on this repository and we must propose others in the future.
+We believe that the effective breeding number Rt is the answer. Inspired by the [Kevin Systrom](http://systrom.com/blog/the-metric-we-need-to-manage-covid-19/) article, we reproduce the model of the article in [this notebook](https://github.com/loft-br/realtime_r0_brazil/blob/master/realtime_r0_brazil.ipynb) and we must propose others in the future.
 
 Suggestions are welcome!!!!
 
