@@ -4,7 +4,7 @@ cycler==0.10.0
 DateTime==4.3
 Flask==1.1.2
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
