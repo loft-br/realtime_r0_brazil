@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: realtime_r0_brazil
+  description: A description about this project
+spec:
+  type: unknown
+  owner: group:group-maintainers
+  lifecycle: production
